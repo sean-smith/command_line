@@ -6,7 +6,7 @@ Let's learn basic navigation and file editing.
 
 This repo contains some resources we'll need for this workshop so the first step is to clone this repo. You can open up a terminal and type:
 
-	$ git clone 
+	$ git clone https://github.com/sean-smith/command_line 
 
 Note the `$` is used to denote a shell prompt and should not be typed in.
 
